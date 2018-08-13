@@ -17,4 +17,4 @@ Simply open the index.html in a web browser and enjoy.
 * There is no time limit
  
 
-my github link:
+my github link:https://github.com/divyabatchu/memory-game-udacity
